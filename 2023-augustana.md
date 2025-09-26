@@ -5,6 +5,7 @@
 |ref.|vytlačené|oprava, doplnenie|
 |---|---|---|
 |s. 3, Secondary language(s)||_(pridať:)_ English|
+|s. 8, pozn. 28; s. 9, pozn 42; s. 10, pozn. 43; s. 61|_AUF_ XI|_AUF_ XIV|
 |s. 9, pozn. 34|L1/1531 aj L4/1542|L2/1531 aj L4/1542|
 |s. 9, pozn. 39|Christlichen|Chriſtlichen|
 |s. 15, pozn. 80|poradie článkov v druhej časti|poradie článkov v prvej (12, 11) aj v druhej časti|
