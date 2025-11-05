@@ -14,5 +14,6 @@
 |s. 35, pozn. 273|lat. impiis|lat. »impiis|
 |s. 55, pozn. 478||_(na koniec poznámky pridať:)_ Podrobnejšie vo Víznerovom rukopise „Krátka história prekladania symbolických kníh ev.a.v. cirkvi do slovenčiny“ z 5. 2. 1971, 6 s. (Ústredný archív ECAV na Slovensku, osobný fond Július Janko, šk. 1).|
 |s. 65, pozn. 573|Kolb – Wengert (2000)|Kolb – Wengert (2000) aj Hund – Schneider (2021)|
+|s. 67|3. ***V1620***|3. ***AV1620***|
 |s. 72, záznam 18, názov diela|Swornosti|Swornoſti|
 |s. 79, záznam pre ÖBL|.̲|.|
