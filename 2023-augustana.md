@@ -11,6 +11,7 @@
 |s. 15, pozn. 80|poradie článkov v druhej časti|poradie článkov v prvej (12, 11) aj v druhej časti|
 |s. 15, pozn. 84|prepracované články 23 a 28|prepracované články 21, 23, 26 a 28 (v číslovaní podľa L1/1531) a drobné opravy a zmeny v mnohých ďalších článkoch|
 |s. 15, pozn. 84|Zoznam rozdielov podáva Heppe (1855, s. 640–649)|Zoznam väčších rozdielov podáva Heppe (1855, s. 640–649), takmer všetky rozdiely sú v poznámkovom aparáte CR 26.|
+|s. 18, pozn. 103|_OVxvi_|_OV_|
 |s. 35, pozn. 273|lat. impiis|lat. »impiis|
 |s. 55, pozn. 478||_(na koniec poznámky pridať:)_ Podrobnejšie vo Víznerovom rukopise „Krátka história prekladania symbolických kníh ev.a.v. cirkvi do slovenčiny“ z 5. 2. 1971, 6 s. (Ústredný archív ECAV na Slovensku, osobný fond Július Janko, šk. 1).|
 |s. 65, pozn. 573|Kolb – Wengert (2000)|Kolb – Wengert (2000) aj Hund – Schneider (2021)|
